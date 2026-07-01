@@ -1,0 +1,18 @@
+[browser] Uncaught ReferenceError: ShoppingCart is not defined
+    at ReportsPage (src/app/(dashboard)/reports/page.tsx:245:16)
+  243 |           <CardHeader>
+  244 |             <CardTitle className="text-lg flex items-center gap-2">
+> 245 |               <ShoppingCart className="h-5 w-5" /> Sales by Day
+      |                ^
+  246 |             </CardTitle>
+  247 |           </CardHeader>
+  248 |           <CardContent>
+[browser] Uncaught ReferenceError: ShoppingCart is not defined
+    at ReportsPage (src/app/(dashboard)/reports/page.tsx:245:16)
+  243 |           <CardHeader>
+  244 |             <CardTitle className="text-lg flex items-center gap-2">
+> 245 |               <ShoppingCart className="h-5 w-5" /> Sales by Day
+      |                ^
+  246 |             </CardTitle>
+  247 |           </CardHeader>
+  248 |           <CardContent>

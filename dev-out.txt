@@ -1,0 +1,28 @@
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://10.15.213.148:3000
+- Environments: .env.local
+✓ Ready in 753ms
+
+ GET /purchase-orders 200 in 3.0s (next.js: 2.0s, application-code: 1027ms)
+ GET /login 200 in 2.8s (next.js: 2.2s, application-code: 621ms)
+ GET /products 200 in 251ms (next.js: 90ms, application-code: 161ms)
+ GET /register 200 in 1179ms (next.js: 953ms, application-code: 226ms)
+ GET /login 200 in 47ms (next.js: 9ms, application-code: 38ms)
+ GET /dashboard 200 in 887ms (next.js: 785ms, application-code: 102ms)
+ GET /settings 200 in 905ms (next.js: 835ms, application-code: 70ms)
+ GET /reports 200 in 851ms (next.js: 777ms, application-code: 74ms)
+ GET /settings 200 in 219ms (next.js: 16ms, application-code: 204ms)
+ GET /reports 200 in 52ms (next.js: 13ms, application-code: 39ms)
+ GET /reports 200 in 118ms (next.js: 6ms, application-code: 112ms)
+ GET /register 200 in 126ms (next.js: 9ms, application-code: 117ms)
+ GET /login 200 in 42ms (next.js: 6ms, application-code: 37ms)
+ GET /dashboard 200 in 70ms (next.js: 8ms, application-code: 62ms)
+ GET /sales 200 in 978ms (next.js: 890ms, application-code: 88ms)
+ GET /sales/history 200 in 1733ms (next.js: 1629ms, application-code: 104ms)
+ GET /suppliers 200 in 953ms (next.js: 898ms, application-code: 55ms)
+ GET /purchase-orders 200 in 59ms (next.js: 7ms, application-code: 51ms)
+ GET /sales 200 in 173ms (next.js: 54ms, application-code: 118ms)
+ GET /customers 200 in 825ms (next.js: 792ms, application-code: 33ms)
+ GET /reports 200 in 241ms (next.js: 21ms, application-code: 220ms)
+ GET /reports 200 in 544ms (next.js: 35ms, application-code: 509ms)
